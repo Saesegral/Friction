@@ -1,0 +1,2 @@
+/home/kainui/AndroidStudioProjects/Friction/app/build/intermediates/classes/debug
+/home/kainui/AndroidStudioProjects/Friction/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-410bd8752ea60cfd043bff6ce372625b472b424f.jar
